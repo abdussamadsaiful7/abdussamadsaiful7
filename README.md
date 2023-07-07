@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABDUS SAMAD SAIFUL</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
-<img  align="right" width=400 src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="">
+<img  align="right" width=350 src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="">
 
 
 - 🔭 I’m currently working on [Foreign languages Academy](https://polyglot-academy.web.app/)

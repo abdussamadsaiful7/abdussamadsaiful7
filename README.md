@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Summer drawing school]()
 
-- 🌱 I’m currently learning *Next js, nextjs, mongodb, *
+- 🌱 I’m currently learning *Next js, mongodb, *
 
 - 👨‍💻 All of my projects are available at [https://grand-starlight-c8411f.netlify.app/](https://grand-starlight-c8411f.netlify.app/)
 

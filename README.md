@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Next js, mongodb, *
 
-- 👨‍💻 All of my projects are available at [https://grand-starlight-c8411f.netlify.app/](https://my-portfolio-4d455.web.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://my-portfolio-4d455.web.app/)
 
 - 💬 Ask me about *react, javascript, mongodb,*
 

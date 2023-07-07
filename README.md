@@ -1,16 +1,26 @@
-![Web Developer](https://i.ibb.co/pXhkHQL/small.jpg)
-### Hi there 👋, I'm ABDUS SAMAD SAIFUL
-#### Web Developer
-
-I'm Abdus Samad Saiful from Dhaka, Bangladesh. 
-I have completed Master's degree in Economics of Bangladesh National University. Realizing the influence of modernity, I became interested in Web developer. I believe that everyone has the appreciation of a skilled developer, keeping this slogan in front of me, I started study about React.Js Web development.
+<h1 align="center">Hi 👋, I'm ABDUS SAMAD SAIFUL</h1>
+<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+<img  align="right" width=400 src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="">
 
 
-Skills: React.js/ Javascript/ Mongodb/ Node.Js/ Firebase/ Boostrap/ TailwindCSS /DaisyUI 
+- 🔭 I’m currently working on [Summer drawing school]()
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next.Js 
+- 🌱 I’m currently learning *Next js, nextjs, mongodb, *
 
+- 👨‍💻 All of my projects are available at [https://grand-starlight-c8411f.netlify.app/](https://grand-starlight-c8411f.netlify.app/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abdussamadsaiful7?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-samad-saiful-781611278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100072454039583)  
+- 💬 Ask me about *react, javascript, mongodb,*
+
+- 📫 How to reach me *mdfirojhasan.info@gmail.com*
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WItcetVtWvReUwt0BKselhAZ3DpD5fl8/view](https://drive.google.com/file/d/1WItcetVtWvReUwt0BKselhAZ3DpD5fl8/view)
+
+- ⚡ Fun fact *I think I am funny*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 

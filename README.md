@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *samadsaifullah11@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WItcetVtWvReUwt0BKselhAZ3DpD5fl8/view](https://drive.google.com/file/d/1WItcetVtWvReUwt0BKselhAZ3DpD5fl8/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_nJswwsB37486hAvk_SaIv5DyH1sj8Nb/view?usp=drive_link])
 
 - ⚡ Fun fact *I think I am funny*
 

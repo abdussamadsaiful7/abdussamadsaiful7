@@ -3,7 +3,7 @@
 <img  align="right" width=400 src="https://img.freepik.com/free-vector/coding-round-composition_1284-40752.jpg?size=626&ext=jpg&uid=R105874481&ga=GA1.2.1306731744.1686152424&semt=ais" alt="">
 
 
-- 🔭 I’m currently working on [Summer drawing school](https://polyglot-academy.web.app/)
+- 🔭 I’m currently working on [Foreign languages Academy](https://polyglot-academy.web.app/)
 
 - 🌱 I’m currently learning *Next js, mongodb, *
 
